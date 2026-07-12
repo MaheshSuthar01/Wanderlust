@@ -44,16 +44,16 @@ Wanderlust is a full-stack travel listing web application where users can explor
 
 ## 📸 Project Screenshots
 
-### Home Page
+### SignUp Page
 ![SignUp Page](Screenshots/signup.png)
 
-### Listing Details
+### Login Details
 ![Login Details](Screenshots/Login.png)
 
-### Login Page
+### All Listings Page
 ![All Listings Page](Screenshots/AllListings.png)
 
-### Signup Page
+### Create New Listing Page
 ![Create New Listing Page](Screenshots/CreateNewListing.png)
 
 ## 📂 Project Structure
@@ -185,6 +185,5 @@ Listing images are uploaded and managed using Cloudinary.
 **Mahesh Suthar**
 
 ## 📄 License
+ This project is created for educational and learning purposes.
 
-This project is created for educational and learning purposes.
----
