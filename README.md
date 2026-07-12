@@ -168,7 +168,7 @@ http://localhost:8080
 ## 📌 Main Modules
 
 ### Listings
-Users can create, view, edit, and delete travel destination listings.
+Users can create, view, edit, and delete listings.
 
 ### Reviews
 Authenticated users can add and delete reviews for listings.
