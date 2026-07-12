@@ -173,5 +173,6 @@ Listing images are uploaded and managed using Cloudinary.
 ## 📄 License
 
 This project is created for educational and learning purposes.
+<img width="107" height="147" alt="image" src="https://github.com/user-attachments/assets/963b8af0-9fc1-405e-80ed-dca11f87c3e6" />
 
 ---
